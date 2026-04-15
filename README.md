@@ -1,0 +1,1 @@
+Conjuntos de exercicios na linguagem C de Programação e Algoritmos sujeitos a alterações (2026.1) (tentar resolver um por dia)
