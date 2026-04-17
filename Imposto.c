@@ -24,5 +24,6 @@ int main(){
                       salario = salario*0.73;
                       printf("Seu salario e: %.2f", salario);  
                     }  }}}}     
+system("pause");
 return 0;
 }

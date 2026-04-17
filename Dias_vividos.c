@@ -21,10 +21,10 @@ printf("%d\n", idade);
 int dife_dias = abs(dia_atual - dia);
 int dife_mes = abs(mes_atual - mes)*30;
 int dias_vividos = dife_dias + dife_mes + idade*365;
-printf("Voce viveu %d dias na Terra", dias_vividos);
+printf("Voce viveu %d dias na Terra\n", dias_vividos);
 
 
-
+system("pause");
 
 return 0;
 }

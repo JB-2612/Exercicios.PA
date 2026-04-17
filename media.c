@@ -28,19 +28,6 @@ nf = (av1 + (tb1 + tb2)) / 3.0;
 
 printf("A nota final foi: %.3f\n", nf);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+system("pause");
 return 0;
 }
